@@ -11,6 +11,7 @@ class DigitalClock:
         self.root.resizable(False, False)
 
 #13行注释  digital_clock
+#14行编辑
         self.time_label = tk.Label(
             root,
             text="",
