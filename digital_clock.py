@@ -13,6 +13,8 @@ class DigitalClock:
 
 #14行注释  digital_clock
 #15行编辑
+#16行·12·2222222
+#1717
         self.time_label = tk.Label(
             root,
             text="",
