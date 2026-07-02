@@ -10,8 +10,9 @@ class DigitalClock:
         self.root.configure(bg="#111827")
         self.root.resizable(False, False)
 
-#13行注释  digital_clock
-#14行编辑
+
+#14行注释  digital_clock
+#15行编辑
         self.time_label = tk.Label(
             root,
             text="",
