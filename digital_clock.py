@@ -1,7 +1,7 @@
 import time
 import tkinter as tk
 
-
+#测试建立分支223
 class DigitalClock:
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
